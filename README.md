@@ -8,6 +8,7 @@ This project aims to understand what factors influence the infant mortality rate
 I start with the following hypotheses:
 1.	Wealthier countries are expected to have lower IMR
 2.	Public spending on health and education is expected to reduce IMR
+
 There is a literature supporting these hypotheses:
 * Higher income per capita is related to higher household spending on nutritious foods and health services [Baird et al., 2011].
 * nHealth expenditure targeting the causes of infant death is effective in reducing infant mortality [Baird et al., 2011].
