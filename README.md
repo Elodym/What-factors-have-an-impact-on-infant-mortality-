@@ -11,7 +11,7 @@ I start with the following hypotheses:
 
 There is a literature supporting these hypotheses:
 * Higher income per capita is related to higher household spending on nutritious foods and health services [Baird et al., 2011].
-* nHealth expenditure targeting the causes of infant death is effective in reducing infant mortality [Baird et al., 2011].
+* Health expenditure targeting the causes of infant death is effective in reducing infant mortality [Baird et al., 2011].
 * Educational spending increases mothers’ awareness of hygiene and nutritional practise [Meegama, 1980; Gortmaker; 1997].
 
 ## Methods
